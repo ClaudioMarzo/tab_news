@@ -4,7 +4,7 @@
   "description": "Bem-vindo ao TabNews! Este é um site focado na comunidade da área de tecnologia, destinado a debates e troca de conhecimentos por meio de publicações e comentários criados pelos próprios usuários.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev" : "next dev"
   },
   "author": "",
   "license": "MIT",
