@@ -20,6 +20,7 @@ Para gerenciar diferentes versões do Node.js, recomendamos o uso do Node Versio
 
 1. Instale o nvm seguindo as instruções fornecidas em: [Node Version Manager - Instalação](https://github.com/nvm-sh/nvm#installing-and-updating)
 2. Após a instalação, verifique se o nvm está funcionando corretamente executando o seguinte comando no terminal:
+
 ```
 $ nvm --version
 ```
