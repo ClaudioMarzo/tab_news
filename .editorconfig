@@ -1,0 +1,8 @@
+root = true
+
+#tipo de arquivo que vão ter a regra
+[*]
+
+#regra de indentação
+indent_style = space
+indent_size = 2
